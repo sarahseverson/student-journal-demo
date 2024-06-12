@@ -1,78 +1,78 @@
-objectid,journalTitle,journalLink,hostInstitution,location,ISSN (print or generic),ESSN (online),lastIssueDate,ledBy
-demo_001,Carleton Perspectives on Public Policy,https://ojs.library.carleton.ca/index.php/cpopp/,Carleton University,"Ottawa, Ontario",2563-3260,,2022,graduate
-demo_002,Corvus,https://carleton.ca/grs/student-life/corvus-journal/,Carleton University,"Ottawa, Ontario",2369-9086,2369-9094,2022,undergraduate
-demo_003,"ISEMA: Perspectives on Innovation, Science and Environment",https://isemajournal.wordpress.com/,Carleton University,"Ottawa, Ontario",1920-5775,1920-5783,2021,undergraduate
-demo_004,Concordia Journal of Psychology and Neuroscience (CJPN),https://www.concordiapsychjournals.ca/cjpn/,Concordia University,"Montreal, Quebec",unknown,,2021,graduate
-demo_005,Concordia’s Journal of Accessible Psychology,https://www.concordiapsychjournals.ca/cjap/blog/,Concordia University,"Montreal, Quebec",unknown,,2021,graduate
-demo_006,InARTE Journal,https://inartejournal.ca/,Concordia University,"Montreal, Quebec",unknown,,2021,"graduate
+objectid,display_template,title,object_location,hostInstitution,location,longitude,latitude,ISSN (print or generic),ESSN (online),lastIssueDate,ledBy
+demo_001,record,Carleton Perspectives on Public Policy,https://ojs.library.carleton.ca/index.php/cpopp/,Carleton University,"Ottawa, Ontario",45.38730357,-75.69543154,2563-3260,,2022,graduate
+demo_002,record,Corvus,https://carleton.ca/grs/student-life/corvus-journal/,Carleton University,"Ottawa, Ontario",45.38730357,-75.69543154,2369-9086,2369-9094,2022,undergraduate
+demo_003,record,"ISEMA: Perspectives on Innovation, Science and Environment",https://isemajournal.wordpress.com/,Carleton University,"Ottawa, Ontario",45.38730357,-75.69543154,1920-5775,1920-5783,2021,undergraduate
+demo_004,record,Concordia Journal of Psychology and Neuroscience (CJPN),https://www.concordiapsychjournals.ca/cjpn/,Concordia University,"Montreal, Quebec",45.49772909,-73.57848692,unknown,,2021,graduate
+demo_005,record,Concordia’s Journal of Accessible Psychology,https://www.concordiapsychjournals.ca/cjap/blog/,Concordia University,"Montreal, Quebec",45.49772909,-73.57848692,unknown,,2021,graduate
+demo_006,record,InARTE Journal,https://inartejournal.ca/,Concordia University,"Montreal, Quebec",45.49772909,-73.57848692,unknown,,2021,"graduate
  undergraduate"
-demo_007,JRC: Journal of Religion and Culture,http://www.jrc-concordia.ca/,Concordia University,"Montreal, Quebec",1198-6395,,2021,graduate
-demo_008,Dalhousie Journal of Interdisciplinary Management,https://ojs.library.dal.ca/djim,Dalhousie University,"Halifax, Nova Scotia",1923-6530,,2021,graduate
-demo_009,Dalhousie Journal of Legal Studies,https://digitalcommons.schulichlaw.dal.ca/djls/,Dalhousie University,"Halifax, Nova Scotia",2292-1419,,2021,"student, unclear"
-demo_010,Dalhousie Medical Journal,https://ojs.library.dal.ca/DMJ,Dalhousie University,"Halifax, Nova Scotia",1488-9994,,2022,"student, unclear"
-demo_011,"Healthy Populations Journal (HPJ), The",https://ojs.library.dal.ca/hpj,Dalhousie University,"Halifax, Nova Scotia",2816-2536,,2022,"student, unclear"
-demo_012,Crossing Borders: Student Reflections on Global Social Issues,https://journals.macewan.ca/crossingborders,MacEwan University,"Edmonton, Alberta",2562-8445,,2021,undergraduate
-demo_013,Canadian Content,https://www.csausmcgill.com/,McGill University,"Montreal, Quebec",2369-8373,2369-8381,2022,undergraduate
-demo_014,"Channel: McGill Department of English Undergraduate Review, The",http://mcgillchannelundergraduatereview.com/,McGill University,"Montreal, Quebec",2369-8608,,2022,undergraduate
-demo_015,DOROT: The McGill Undergraduate Journal of Jewish Studies,https://www.mcgill.ca/jewishstudies/undergraduates/journal,McGill University,"Montreal, Quebec",1913-2409,,2022,undergraduate
-demo_016,Flux: International Relations Review,https://fluxirr.mcgill.ca/,McGill University,"Montreal, Quebec",2562-6094,,2022,undergraduate
-demo_017,Fragments: McGill Undergraduate Journal of Philosophy,https://issuu.com/mcgillfragments,McGill University,"Montreal, Quebec",unknown,,2022,undergraduate
-demo_018,McGill GLSA Research Series,https://glsars.library.mcgill.ca/,McGill University,"Montreal, Quebec",2564-3843,,2022,graduate
-demo_019,McGill Journal of Dispute Resolution (MJDR),https://mjdr-rrdm.ca/,McGill University,"Montreal, Quebec",unknown,,2022,"student, unclear"
-demo_020,McGill Journal of Economics (MJE),https://www.esamcgill.com/journal,McGill University,"Montreal, Quebec",2369-8365,,2021,"student, unclear"
-demo_021,McGill Journal of Global Health,https://mghjournal.com/,McGill University,"Montreal, Quebec",unknown,,2022,"student, unclear"
-demo_022,"McGill Journal of Human Behaviour, The",https://mcgillhumanbehaviour.ca/,McGill University,"Montreal, Quebec",unknown,,2022,undergraduate
-demo_023,McGill Journal of Law and Health (MJLH),https://mjlh.mcgill.ca/,McGill University,"Montreal, Quebec",1920-4825,1920-4833,2021,"student, unclear"
-demo_024,McGill Journal of Medicine (MJM),http://www.mjmmed.com/,McGill University,"Montreal, Quebec",1715-8125,1201-026X,2022,"graduate
+demo_007,record,JRC: Journal of Religion and Culture,http://www.jrc-concordia.ca/,Concordia University,"Montreal, Quebec",45.49772909,-73.57848692,1198-6395,,2021,graduate
+demo_008,record,Dalhousie Journal of Interdisciplinary Management,https://ojs.library.dal.ca/djim,Dalhousie University,"Halifax, Nova Scotia",44.63571525,-63.59456216,1923-6530,,2021,graduate
+demo_009,record,Dalhousie Journal of Legal Studies,https://digitalcommons.schulichlaw.dal.ca/djls/,Dalhousie University,"Halifax, Nova Scotia",44.63571525,-63.59456216,2292-1419,,2021,"student, unclear"
+demo_010,record,Dalhousie Medical Journal,https://ojs.library.dal.ca/DMJ,Dalhousie University,"Halifax, Nova Scotia",44.63571525,-63.59456216,1488-9994,,2022,"student, unclear"
+demo_011,record,"Healthy Populations Journal (HPJ), The",https://ojs.library.dal.ca/hpj,Dalhousie University,"Halifax, Nova Scotia",44.63571525,-63.59456216,2816-2536,,2022,"student, unclear"
+demo_012,record,Crossing Borders: Student Reflections on Global Social Issues,https://journals.macewan.ca/crossingborders,MacEwan University,"Edmonton, Alberta",53.54733208,-113.5064158,2562-8445,,2021,undergraduate
+demo_013,record,Canadian Content,https://www.csausmcgill.com/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,2369-8373,2369-8381,2022,undergraduate
+demo_014,record,"Channel: McGill Department of English Undergraduate Review, The",http://mcgillchannelundergraduatereview.com/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,2369-8608,,2022,undergraduate
+demo_015,record,DOROT: The McGill Undergraduate Journal of Jewish Studies,https://www.mcgill.ca/jewishstudies/undergraduates/journal,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,1913-2409,,2022,undergraduate
+demo_016,record,Flux: International Relations Review,https://fluxirr.mcgill.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,2562-6094,,2022,undergraduate
+demo_017,record,Fragments: McGill Undergraduate Journal of Philosophy,https://issuu.com/mcgillfragments,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,undergraduate
+demo_018,record,McGill GLSA Research Series,https://glsars.library.mcgill.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,2564-3843,,2022,graduate
+demo_019,record,McGill Journal of Dispute Resolution (MJDR),https://mjdr-rrdm.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,"student, unclear"
+demo_020,record,McGill Journal of Economics (MJE),https://www.esamcgill.com/journal,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,2369-8365,,2021,"student, unclear"
+demo_021,record,McGill Journal of Global Health,https://mghjournal.com/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,"student, unclear"
+demo_022,record,"McGill Journal of Human Behaviour, The",https://mcgillhumanbehaviour.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,undergraduate
+demo_023,record,McGill Journal of Law and Health (MJLH),https://mjlh.mcgill.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,1920-4825,1920-4833,2021,"student, unclear"
+demo_024,record,McGill Journal of Medicine (MJM),http://www.mjmmed.com/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,1715-8125,1201-026X,2022,"graduate
  undergraduate"
-demo_025,McGill Journal of Political Studies (MJPS),https://mjps.ssmu.ca/,McGill University,"Montreal, Quebec",2291-5648,,2022,undergraduate
-demo_026,McGill Law Journal,https://lawjournal.mcgill.ca/,McGill University,"Montreal, Quebec",0024-9041,1920-6356,2021,"student, unclear"
-demo_027,McGill Science Udergraduate Research Journal,https://www.msurj.com/,McGill University,"Montreal, Quebec",1718-0775,1718-0783,2022,undergraduate
-demo_028,McGill's Undergraduate Journal of Feminist Studies,https://mjfs-mcgill.weebly.com/,McGill University,"Montreal, Quebec",unknown,,2022,undergraduate
-demo_029,Orientations: McGill University's East Asian Studies Journal,https://orientations.press/,McGill University,"Montreal, Quebec",unknown,,2022,undergraduate
-demo_030,PSI Journal,https://www.mpsamcgill.com/psi-journal,McGill University,"Montreal, Quebec",1929-2406,1929-2414,2022,undergraduate
-demo_031,Verstehen: McGill University's Undergraduate Journal of Sociology,https://www.mcgillsociology.ca/journals,McGill University,"Montreal, Quebec",unknown,,2022,undergraduate
-demo_032,Vielfalt: A McGill German Studies Student Journal / Eine Studentenzeitschrift der McGill Germanistik / Revue étudiante d'études allemandes à McGill,https://issuu.com/gsamcgill,McGill University,"Montreal, Quebec",unknown,,2022,undergraduate
-demo_033,Aletheia,https://journals.mcmaster.ca/aletheia,McMaster University,"Hamilton, Ontario",2563-9846,,2022,undergraduate
-demo_034,"Child Health Interdisciplinary Literature and Discovery (CHILD), The",https://journals.mcmaster.ca/child/,McMaster University,"Hamilton, Ontario",unknown,,2022,undergraduate
-demo_035,Global Health: Annual Review (GHAR),https://journals.mcmaster.ca/ghar,McMaster University,"Hamilton, Ontario",2561-1313,,2021,"student, unclear"
-demo_036,McMaster Journal of Communication,https://journals.mcmaster.ca/mjc,McMaster University,"Hamilton, Ontario",1710-257X,,2022,graduate
-demo_037,McMaster Undergraduate Journal of Social Psychology (MUJSP),ttps://journals.mcmaster.ca/mujsp,McMaster University,"Hamilton, Ontario",2563-4763,,2022,undergraduate
-demo_038,McMaster University Medical Journal (MUMJ),https://journals.mcmaster.ca/mumj,McMaster University,"Hamilton, Ontario",1927-2413,1927-2421,2022,"student, unclear"
-demo_039,"Meducator, The",https://journals.mcmaster.ca/meducator,McMaster University,"Hamilton, Ontario",1929-4220,1929-4239,2021,undergraduate
-demo_040,"Psynapse: McMaster Undergraduate Journal of Psychology, Neuroscience, and Behaviour",https://journals.mcmaster.ca/mujpnb,McMaster University,"Hamilton, Ontario",unknown,,2022,undergraduate
-demo_041,Sciential: McMaster Undergraduate Science Journal,https://journals.mcmaster.ca/sciential,McMaster University,"Hamilton, Ontario",2562-1483,,2022,undergraduate
-demo_042,SciWise,https://journals.mcmaster.ca/sw/,McMaster University,"Hamilton, Ontario",unknown,,2022,undergraduate
-demo_043,Spectrum,https://journals.mcmaster.ca/spectrum,McMaster University,"Hamilton, Ontario",unknown,,2022,undergraduate
-demo_044,Codgito: Student Journal of Philosophy and Theory,https://journals.library.mun.ca/ojs/index.php/codgito,Memorial University of Newfoundland,"St. John's, Newfoundland and Labrador",,2816-6884,2022,undergraduate
-demo_045,Mount Royal Undergraduate Humanities Review (MRUHR),https://mrujs.mtroyal.ca/index.php/mruhr,Mount Royal University,"Calgary, Alberta",2562-4733,,2021,undergraduate
-demo_046,Federalism-E,http://ojs.library.queensu.ca/index.php/FedE,Queen's University,"Kingston, Ontario",2562-3435,,2022,undergraduate
-demo_047,JUEPPEQ,https://ojs.library.queensu.ca/index.php/JUEPPEQ,Queen's University,"Kingston, Ontario",2563-917X,,2022,undergraduate
-demo_048,Queen’s Science Undergraduate Research Journal (QSURJ),http://ojs.library.queensu.ca/index.php/qsurj,Queen's University,"Kingston, Ontario",unknown,,2021,undergraduate
-demo_049,Canadian Undergraduate Journal of Cognitive Science (CUJCS),https://cujcs.ca/,Simon Fraser University,"Vancouver, British Columbia",1499-7487,,2022,undergraduate
-demo_050,Confluence,https://journals.lib.sfu.ca/index.php/confluence,Simon Fraser University,"Vancouver, British Columbia",unknown,,2021,"student, unclear"
-demo_051,Gadfly,https://journals.lib.sfu.ca/index.php/gadfly,Simon Fraser University,"Vancouver, British Columbia",unknown,,2021,undergraduate
-demo_052,"Lyre Magazine, The",https://journals.lib.sfu.ca/index.php/lyre,Simon Fraser University,"Vancouver, British Columbia",unknown,,2021,undergraduate
-demo_053,SFU Educational Review,http://journals.sfu.ca/sfuer/index.php/sfuer,Simon Fraser University,"Vancouver, British Columbia",1916-050X,,2021,graduate
-demo_054,SFU Health Sciences Undergraduate Journal,https://journals.lib.sfu.ca/index.php/healthsciences,Simon Fraser University,"Vancouver, British Columbia",unknown,,2022,undergraduate
-demo_055,SFU Science Undergraduate Research Journal,http://journals.sfu.ca/sfusurj/index.php/journal,Simon Fraser University,"Vancouver, British Columbia",2371-4344,,2021,undergraduate
-demo_056,"Éditions Thémis, Les",https://ssl.editionsthemis.com/,Université de Montréal,"Montreal, Quebec",unknown,,2021,"student, unclear"
-demo_057,Fémur,https://revuefemur.com/index.php/la-revue/,Université de Montréal,"Montreal, Quebec",2563-6812,,2022,"student, unclear"
-demo_058,"Harbour, The",https://udemegss.wordpress.com/about-the-harbour/,Université de Montréal,"Montreal, Quebec",2563-7045,2563-7053,2022,graduate
-demo_059,Ithaque,http://www.revueithaque.org/,Université de Montréal,"Montreal, Quebec",1703-1001,1916-260X,2022,"student, unclear"
-demo_060,"Artillerie, s'armer de théâtre",https://revueartillerie.wixsite.com/artillerie,Université du Québec à Montréal,"Montreal, Quebec",2371-1167,,2021,"student, unclear"
-demo_061,COMMposite,http://www.commposite.org/index.php/revue,Université du Québec à Montréal,"Montreal, Quebec",1206-9256,,2022,"student, unclear"
-demo_062,Ex_situ,https://revueexsitu.com/,Université du Québec à Montréal,"Montreal, Quebec",1710-3193,,2022,"student, unclear"
-demo_063,Postures,http://revuepostures.com/,Université du Québec à Montréal,"Montreal, Quebec",1496-7715,1496-7715,2022,"student, unclear"
-demo_064,Sessions Sociologiques,https://sessionssociologiques.com/,Université du Québec à Montréal,"Montreal, Quebec",,2291-0549,2022,"student, unclear"
-demo_065,"Connections: Journal of language, media and culture",https://connectionsjournal.ca/index.php/connections,University of Alberta,"Edmonton, Alberta",2563-6715,,2021,graduate
-demo_066,Constellations,https://journals.library.ualberta.ca/constellations,University of Alberta,"Edmonton, Alberta",2562-0509,,2022,undergraduate
-demo_067,Crossings: an Undergraduate Arts Journal,https://crossingsjournal.ca/index.php/crossings,University of Alberta,"Edmonton, Alberta",2816-5195,2816-5209,2022,undergraduate
-demo_068,Eureka,https://journals.library.ualberta.ca/eureka/index.php/eureka/index,University of Alberta,"Edmonton, Alberta",1923-1520,,2022,undergraduate
-demo_069,Health Science Inquiry,https://healthscienceinquiry.com/index.php/his,University of Alberta,"Edmonton, Alberta",2562-7791,,2021,graduate
-demo_070,Intonations,https://intonationsjournal.ca/index.php/intonations/,University of Alberta,"Edmonton, Alberta",2562-0479,,2021,graduate
-demo_071,Invoke,https://journals.library.ualberta.ca/invoke,University of Alberta,"Edmonton, Alberta",1927-7091,,2022,undergraduate
-demo_072,Past Imperfect,https://journals.library.ualberta.ca/pi,University of Alberta,"Edmonton, Alberta",1718-4487,,2022,graduate
-demo_073,Pathfinder,https://pathfinderjournal.ca/index.php/pathfinder,University of Alberta,"Edmonton, Alberta",2563-2493,,2022,graduate
-demo_074,Political Science Undergraduate Review (PSUR),https://journals.library.ualberta.ca/psur,University of Alberta,"Edmonton, Alberta",2562-1289,,2022,undergraduate
-demo_075,Spectrum,https://spectrumjournal.ca/index.php/spectrum,University of Alberta,"Edmonton, Alberta",2561-7842,,2022,undergraduate
+demo_025,record,McGill Journal of Political Studies (MJPS),https://mjps.ssmu.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,2291-5648,,2022,undergraduate
+demo_026,record,McGill Law Journal,https://lawjournal.mcgill.ca/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,0024-9041,1920-6356,2021,"student, unclear"
+demo_027,record,McGill Science Udergraduate Research Journal,https://www.msurj.com/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,1718-0775,1718-0783,2022,undergraduate
+demo_028,record,McGill's Undergraduate Journal of Feminist Studies,https://mjfs-mcgill.weebly.com/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,undergraduate
+demo_029,record,Orientations: McGill University's East Asian Studies Journal,https://orientations.press/,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,undergraduate
+demo_030,record,PSI Journal,https://www.mpsamcgill.com/psi-journal,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,1929-2406,1929-2414,2022,undergraduate
+demo_031,record,Verstehen: McGill University's Undergraduate Journal of Sociology,https://www.mcgillsociology.ca/journals,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,undergraduate
+demo_032,record,Vielfalt: A McGill German Studies Student Journal / Eine Studentenzeitschrift der McGill Germanistik / Revue étudiante d'études allemandes à McGill,https://issuu.com/gsamcgill,McGill University,"Montreal, Quebec",45.50492002,-73.57667904,unknown,,2022,undergraduate
+demo_033,record,Aletheia,https://journals.mcmaster.ca/aletheia,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,2563-9846,,2022,undergraduate
+demo_034,record,"Child Health Interdisciplinary Literature and Discovery (CHILD), The",https://journals.mcmaster.ca/child/,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,unknown,,2022,undergraduate
+demo_035,record,Global Health: Annual Review (GHAR),https://journals.mcmaster.ca/ghar,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,2561-1313,,2021,"student, unclear"
+demo_036,record,McMaster Journal of Communication,https://journals.mcmaster.ca/mjc,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,1710-257X,,2022,graduate
+demo_037,record,McMaster Undergraduate Journal of Social Psychology (MUJSP),ttps://journals.mcmaster.ca/mujsp,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,2563-4763,,2022,undergraduate
+demo_038,record,McMaster University Medical Journal (MUMJ),https://journals.mcmaster.ca/mumj,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,1927-2413,1927-2421,2022,"student, unclear"
+demo_039,record,"Meducator, The",https://journals.mcmaster.ca/meducator,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,1929-4220,1929-4239,2021,undergraduate
+demo_040,record,"Psynapse: McMaster Undergraduate Journal of Psychology, Neuroscience, and Behaviour",https://journals.mcmaster.ca/mujpnb,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,unknown,,2022,undergraduate
+demo_041,record,Sciential: McMaster Undergraduate Science Journal,https://journals.mcmaster.ca/sciential,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,2562-1483,,2022,undergraduate
+demo_042,record,SciWise,https://journals.mcmaster.ca/sw/,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,unknown,,2022,undergraduate
+demo_043,record,Spectrum,https://journals.mcmaster.ca/spectrum,McMaster University,"Hamilton, Ontario",43.25856931,-79.86642025,unknown,,2022,undergraduate
+demo_044,record,Codgito: Student Journal of Philosophy and Theory,https://journals.library.mun.ca/ojs/index.php/codgito,Memorial University of Newfoundland,"St. John's, Newfoundland and Labrador",47.57444465,-52.73138993,,2816-6884,2022,undergraduate
+demo_045,record,Mount Royal Undergraduate Humanities Review (MRUHR),https://mrujs.mtroyal.ca/index.php/mruhr,Mount Royal University,"Calgary, Alberta",51.01129133,-114.1311003,2562-4733,,2021,undergraduate
+demo_046,record,Federalism-E,http://ojs.library.queensu.ca/index.php/FedE,Queen's University,"Kingston, Ontario",44.22541017,-76.49465841,2562-3435,,2022,undergraduate
+demo_047,record,JUEPPEQ,https://ojs.library.queensu.ca/index.php/JUEPPEQ,Queen's University,"Kingston, Ontario",44.22541017,-76.49465841,2563-917X,,2022,undergraduate
+demo_048,record,Queen’s Science Undergraduate Research Journal (QSURJ),http://ojs.library.queensu.ca/index.php/qsurj,Queen's University,"Kingston, Ontario",44.22541017,-76.49465841,unknown,,2021,undergraduate
+demo_049,record,Canadian Undergraduate Journal of Cognitive Science (CUJCS),https://cujcs.ca/,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,1499-7487,,2022,undergraduate
+demo_050,record,Confluence,https://journals.lib.sfu.ca/index.php/confluence,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,unknown,,2021,"student, unclear"
+demo_051,record,Gadfly,https://journals.lib.sfu.ca/index.php/gadfly,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,unknown,,2021,undergraduate
+demo_052,record,"Lyre Magazine, The",https://journals.lib.sfu.ca/index.php/lyre,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,unknown,,2021,undergraduate
+demo_053,record,SFU Educational Review,http://journals.sfu.ca/sfuer/index.php/sfuer,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,1916-050X,,2021,graduate
+demo_054,record,SFU Health Sciences Undergraduate Journal,https://journals.lib.sfu.ca/index.php/healthsciences,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,unknown,,2022,undergraduate
+demo_055,record,SFU Science Undergraduate Research Journal,http://journals.sfu.ca/sfusurj/index.php/journal,Simon Fraser University,"Vancouver, British Columbia",49.27920056,-122.9194392,2371-4344,,2021,undergraduate
+demo_056,record,"Éditions Thémis, Les",https://ssl.editionsthemis.com/,Université de Montréal,"Montreal, Quebec",45.50577347,-73.61333005,unknown,,2021,"student, unclear"
+demo_057,record,Fémur,https://revuefemur.com/index.php/la-revue/,Université de Montréal,"Montreal, Quebec",45.50577347,-73.61333005,2563-6812,,2022,"student, unclear"
+demo_058,record,"Harbour, The",https://udemegss.wordpress.com/about-the-harbour/,Université de Montréal,"Montreal, Quebec",45.50577347,-73.61333005,2563-7045,2563-7053,2022,graduate
+demo_059,record,Ithaque,http://www.revueithaque.org/,Université de Montréal,"Montreal, Quebec",45.50577347,-73.61333005,1703-1001,1916-260X,2022,"student, unclear"
+demo_060,record,"Artillerie, s'armer de théâtre",https://revueartillerie.wixsite.com/artillerie,Université du Québec à Montréal,"Montreal, Quebec",45.51341646,-73.559616,2371-1167,,2021,"student, unclear"
+demo_061,record,COMMposite,http://www.commposite.org/index.php/revue,Université du Québec à Montréal,"Montreal, Quebec",45.51341646,-73.559616,1206-9256,,2022,"student, unclear"
+demo_062,record,Ex_situ,https://revueexsitu.com/,Université du Québec à Montréal,"Montreal, Quebec",45.51341646,-73.559616,1710-3193,,2022,"student, unclear"
+demo_063,record,Postures,http://revuepostures.com/,Université du Québec à Montréal,"Montreal, Quebec",45.51341646,-73.559616,1496-7715,1496-7715,2022,"student, unclear"
+demo_064,record,Sessions Sociologiques,https://sessionssociologiques.com/,Université du Québec à Montréal,"Montreal, Quebec",45.51341646,-73.559616,,2291-0549,2022,"student, unclear"
+demo_065,record,"Connections: Journal of language, media and culture",https://connectionsjournal.ca/index.php/connections,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2563-6715,,2021,graduate
+demo_066,record,Constellations,https://journals.library.ualberta.ca/constellations,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2562-0509,,2022,undergraduate
+demo_067,record,Crossings: an Undergraduate Arts Journal,https://crossingsjournal.ca/index.php/crossings,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2816-5195,2816-5209,2022,undergraduate
+demo_068,record,Eureka,https://journals.library.ualberta.ca/eureka/index.php/eureka/index,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,1923-1520,,2022,undergraduate
+demo_069,record,Health Science Inquiry,https://healthscienceinquiry.com/index.php/his,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2562-7791,,2021,graduate
+demo_070,record,Intonations,https://intonationsjournal.ca/index.php/intonations/,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2562-0479,,2021,graduate
+demo_071,record,Invoke,https://journals.library.ualberta.ca/invoke,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,1927-7091,,2022,undergraduate
+demo_072,record,Past Imperfect,https://journals.library.ualberta.ca/pi,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,1718-4487,,2022,graduate
+demo_073,record,Pathfinder,https://pathfinderjournal.ca/index.php/pathfinder,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2563-2493,,2022,graduate
+demo_074,record,Political Science Undergraduate Review (PSUR),https://journals.library.ualberta.ca/psur,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2562-1289,,2022,undergraduate
+demo_075,record,Spectrum,https://spectrumjournal.ca/index.php/spectrum,University of Alberta,"Edmonton, Alberta",53.7528549,-113.5712941,2561-7842,,2022,undergraduate
