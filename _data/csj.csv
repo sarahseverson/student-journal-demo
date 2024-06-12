@@ -1,4 +1,4 @@
-objectid,format,title,filename,hostInstitution,location,longitude,latitude,ISSN (print or generic),ESSN (online),lastIssueDate,ledBy
+objectid,format,title,filename,hostInstitution,location,latitude,longitude,ISSN (print or generic),ESSN (online),lastIssueDate,ledBy
 demo_001,record,Carleton Perspectives on Public Policy,https://ojs.library.carleton.ca/index.php/cpopp/,Carleton University,"Ottawa, Ontario",45.38730357,-75.69543154,2563-3260,,2022,graduate
 demo_002,record,Corvus,https://carleton.ca/grs/student-life/corvus-journal/,Carleton University,"Ottawa, Ontario",45.38730357,-75.69543154,2369-9086,2369-9094,2022,undergraduate
 demo_003,record,"ISEMA: Perspectives on Innovation, Science and Environment",https://isemajournal.wordpress.com/,Carleton University,"Ottawa, Ontario",45.38730357,-75.69543154,1920-5775,1920-5783,2021,undergraduate
