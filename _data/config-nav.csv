@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-Table,/data.html
-Browse journals,/browse.html
+Map,/map.html
+Journal Titles,/browse.html
 Host Institutions,/subjects.html
 Locations,/locations.html
-Map,/map.html
+Data Table,/data.html
 About,/about.html
