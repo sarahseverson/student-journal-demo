@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+issn,ISSN,
+essn,ESSN,
 date,Date Created,
 description,Description,
 subject,Subjects,true
