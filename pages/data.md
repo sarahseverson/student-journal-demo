@@ -8,6 +8,7 @@ permalink: /data.html
 
 ## Collection Metadata
 
-The table below provides sorting and basic search of the collection contents. 
+The table below provides sorting and basic search of the Student Journals in Canada. 
 Use the "CSV" or "Excel" button below to download the filtered metadata you see on the page in your preferred format. 
 Alternatively, click the "Download" button at the top right to view the full collection metadata in various export formats. 
+See a journal that is missing? Fill out this form -> "[I'll add a action button here]"
